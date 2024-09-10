@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idil</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idilsg" alt="idilsg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lidymenqs" target="blank"><img src="https://img.shields.io/twitter/follow/lidymenqs?logo=twitter&style=for-the-badge" alt="lidymenqs" /></a> </p>
-
 - 🔭 I’m currently working on **Task Manager App for Performanz**
 
 - 🌱 I’m currently learning **Flutter**
@@ -14,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lidymenqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lidymenqs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/idil sanem gürsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idil sanem gürsoy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idilsanemgursoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idilsanemgursoy" height="30" width="40" /></a>
 <a href="https://instagram.com/idilsgursoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idilsgursoy" height="30" width="40" /></a>
 <a href="https://medium.com/@idilsgursoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@idilsgursoy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/idil gursoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="idil gursoy" height="30" width="40" /></a>
