@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Task Manager App for Performanz**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning about **Artificial Intelligence**
 
 - 📫 How to reach me **idilsgursoy@gmail.com**
 
