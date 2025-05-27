@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idil</h1>
-<h3 align="center">A software engineering student at Izmir University of Economics</h3>
+<h3 align="center">A third year software engineering student at Izmir University of Economics</h3>
 
 - 🌱 I’m currently learning about **Artificial Intelligence**.
 
