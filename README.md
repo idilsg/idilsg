@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idilsg&label=Profile%20views&color=0e75b6&style=flat" alt="idilsg" /> </p>
 
-- 🌱 I'm currently improving my skills in **C#, Java, and unit testing with JUnit.**
+- 🌱 I'm currently improving my skills in **C#, Java, MySQL and unit testing with JUnit.**
 
 - 📫 How to reach me **idilsgursoy@gmail.com**
 
