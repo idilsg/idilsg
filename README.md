@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **idilsgursoy@gmail.com**
 
-- 📄 Know about my experiences [acrobat.adobe.com/id/urn:aaid:sc:AP:d9a96dbb-a3de-4696-86b2-1a0d0a475655](acrobat.adobe.com/id/urn:aaid:sc:AP:d9a96dbb-a3de-4696-86b2-1a0d0a475655)
+- 📄 [View my CV](https://acrobat.adobe.com/id/urn:aaid:sc:AP:d9a96dbb-a3de-4696-86b2-1a0d0a475655)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
