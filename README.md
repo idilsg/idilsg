@@ -10,7 +10,7 @@
 - Currently a **senior Software Engineering student** passionate about building practical solutions.
 - Improving my skills in **C#, Java, MySQL, .NET/ASP.NET, and unit testing with JUnit.**
 - Interested in **AI and modern software development practices.**
-- Learn more about me from my [resume]([https://acrobat.adobe.com/id/urn:aaid:sc:AP:d9a96dbb-a3de-4696-86b2-1a0d0a475655](https://acrobat.adobe.com/id/urn:aaid:sc:AP:450bd0e0-37ed-4be1-90f2-f521e57b29a6)).
+- Learn more about me from my [resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:450bd0e0-37ed-4be1-90f2-f521e57b29a6)
 - Reach me at **idilsgursoy@gmail.com**
 
 ---
