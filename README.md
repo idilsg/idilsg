@@ -2,7 +2,7 @@
 <h3 align="center">4th Year Software Engineering Student at Izmir University of Economics</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=idilsg&label=Profile%20views&color=0e75b6&style=flat" alt="idilsg" /> 
+  <img src="https://acrobat.adobe.com/id/urn:aaid:sc:ap:2944197d-1e46-4335-ba6d-456cc6c61183" alt="idilsg" /> 
 </p>
 
 ---
