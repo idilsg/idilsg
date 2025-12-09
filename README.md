@@ -2,7 +2,7 @@
 <h3 align="center">4th Year Software Engineering Student at Izmir University of Economics</h3>
 
 <p align="center"> 
-  <img src="https://acrobat.adobe.com/id/urn:aaid:sc:ap:2944197d-1e46-4335-ba6d-456cc6c61183" alt="idilsg" /> 
+  <img src="https://komarev.com/ghpvc/?username=idilsg&label=Profile%20views&color=0e75b6&style=flat" alt="idilsg" /> 
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - Currently a **senior Software Engineering student** passionate about building practical solutions.
 - Improving my skills in **Java, Python, C#, MySQL, .NET/ASP.NET, and unit testing with JUnit.**
 - Interested in **AI and modern software development practices.**
-- Learn more about me from my [resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:31a778e6-6dca-4a4b-a0c4-fb56c2f186c3)
+- Learn more about me from my [resume](https://acrobat.adobe.com/id/urn:aaid:sc:ap:2944197d-1e46-4335-ba6d-456cc6c61183)
 - Reach me at **idilsgursoy@gmail.com**
 
 ---
